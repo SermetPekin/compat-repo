@@ -1,0 +1,1 @@
+from compat.compatLocal.tests.test_compat import *
